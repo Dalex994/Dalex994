@@ -16,15 +16,9 @@
 
 - 🤝 I’m looking for collaborating on [Open World Server](https://github.com/Dartanlla/OWS)
 
-- 👨‍💻 All of my projects are available at [In building phase...](In building phase...)
-
-- 📝 I regularly write articles on [In building phase...](In building phase...)
-
 - 💬 Ask me about **Html, CSS, Docker, UE5, Figma, Blender(a bit)**
 
 - 📫 How to reach me **telemarise@duck.com**
-
-- 📄 Know about my experiences [In building phase...](In building phase...)
 
 - ⚡ Fun fact **I'm in highschool and I learn too many things in the same time ^^'**
 
