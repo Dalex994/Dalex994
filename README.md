@@ -42,6 +42,8 @@
 
 <!--END_SECTION:activity-->
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalex994&show_icons=true&locale=en&layout=compact" alt="dalex994" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalex994&show_icons=true&locale=en" alt="dalex994" /></p>
