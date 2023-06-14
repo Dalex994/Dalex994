@@ -39,7 +39,9 @@
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
+{{- end}}
 <!--END_SECTION:activity-->
 
 
