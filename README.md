@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalex994&label=Profile%20views&color=0e75b6&style=flat" alt="dalex994" /> </p>
 
-- 👯 I’m looking to make my own version of the [Intersect Engine](https://github.com/AscensionGameDev/Intersect-Engine)
+- 👯 I’m creating my own multiplayer FPS called [Speed Strike](https://github.com/Dalex994/Speed-Strike)
 
-- 🌱 I’m currently learning **Odin, GdScript, C#**
+- 🌱 I’m currently learning **Odin, Raylib, GdScript, C#**
 
 - 🤝 I’m looking to contribute on [Linux Kernel](https://github.com/torvalds/linux)
 
