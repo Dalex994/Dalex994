@@ -8,15 +8,15 @@
 
 - 👯 I’m looking to make my own version of the [Intersect Engine](https://github.com/AscensionGameDev/Intersect-Engine)
 
-- 🌱 I’m currently learning **C#, GdScript**
+- 🌱 I’m currently learning **Odin, GdScript, C#**
 
-- 🤝 I’m looking for collaborating on [Open World Server](https://github.com/Dartanlla/OWS)
+- 🤝 I’m looking to contribute on [Linux Kernel](https://github.com/torvalds/linux)
 
-- 💬 Ask me about **UE5, Godot, Blender**
+- 💬 Ask me about **Godot, Blender**
 
-- 📫 How to reach me **mithrain.online@protonmail.com**
+- 📫 How to reach me **dalex.laville@proton.me**
 
-- ⚡ Fun fact **I'm in highschool and I learn too many things in the same time ^^'**
+- ⚡ Fun fact **I'm in Computer science and I learn too many things in the same time ^^'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
