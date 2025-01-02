@@ -1,6 +1,6 @@
 ![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.weasyl.com%2F~fluffkevlar%2Fsubmissions%2F30165%2Fefb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042%2Ffluffkevlar-starfield-gif.gif&f=1&nofb=1&ipt=a9de411664d88a83ec9d8c5687d042bcf3bea032065b4f12ecbb4086d9a2b66f&ipo=images)
 
-<h1 align="center">Hello World 👋, I'm Damien Laville</h1>
+<h1 align="center">Hello World 👋, I'm Damien Laville !</h1>
 <h3 align="center">A polyvalent developper at 100% in France</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&f=1&nofb=1&ipt=19a735a0ad1ce99de3c947ca80bb61bae748af73404468e41ffd54815e9c0f33&ipo=images">
 
