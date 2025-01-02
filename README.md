@@ -4,6 +4,9 @@
 <h3 align="center">A polyvalent developper at 100% in France</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&f=1&nofb=1&ipt=19a735a0ad1ce99de3c947ca80bb61bae748af73404468e41ffd54815e9c0f33&ipo=images">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalex994&label=Profile%20views&color=0e75b6&style=flat" alt="dalex994" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalex994" alt="dalex994" /></a> </p>
 
 
 - 👯 I’m creating my own multiplayer FPS called [Speed Strike](https://github.com/Dalex994/Speed-Strike)
